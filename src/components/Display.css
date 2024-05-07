@@ -1,4 +1,4 @@
-.disabled {
+.display {
     grid-column: span 4;
     background-color:  #0004;
 
@@ -7,5 +7,5 @@
     align-items: center;
     padding:  20px;
     font-size: 2.1em;
-    overflow: hidden; /*n deixa os valores ultrapassar */
+   /* overflow: hidden;  /*n deixa os valores ultrapassar */
 }
